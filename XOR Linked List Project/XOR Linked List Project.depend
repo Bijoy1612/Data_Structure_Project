@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1589445672 source:e:\study\spring'20\cse207\xor linked list project\main.cpp
+	<bits/stdc++.h>
+	"Node.h"
+	"interface.h"
+	"XORLL.h"
+
+1589458912 e:\study\spring'20\cse207\xor linked list project\node.h
+	<bits/stdc++.h>
+
+1589479156 e:\study\spring'20\cse207\xor linked list project\interface.h
+	<bits/stdc++.h>
+	<time.h>
+	<conio.h>
+	"Node.h"
+	"XORLL.h"
+
+1589479400 e:\study\spring'20\cse207\xor linked list project\xorll.h
+	<bits/stdc++.h>
+	<inttypes.h>
+	<conio.h>
+	"Node.h"
+	"interface.h"
+
+1589481377 source:c:\users\asus\downloads\xor linked list project (1)\xor linked list project\main.cpp
+	<bits/stdc++.h>
+	"Node.h"
+	"interface.h"
+	"XORLL.h"
+
+1589481377 c:\users\asus\downloads\xor linked list project (1)\xor linked list project\node.h
+	<bits/stdc++.h>
+
+1589483273 c:\users\asus\downloads\xor linked list project (1)\xor linked list project\interface.h
+	<bits/stdc++.h>
+	<time.h>
+	<conio.h>
+	"Node.h"
+	"XORLL.h"
+
+1589481377 c:\users\asus\downloads\xor linked list project (1)\xor linked list project\xorll.h
+	<bits/stdc++.h>
+	<inttypes.h>
+	<conio.h>
+	"Node.h"
+	"interface.h"
+
